@@ -781,7 +781,7 @@ h3{
 /* encore footer; */
 .encore{
     left: 390px;
-    top: -2200px;
+    top: -700px;
 }
 /* contact info; */
 .contact{
@@ -916,7 +916,7 @@ h3{
     text-decoration: none;
     margin: 40px;
     left: 0px;
-    top: -400px;
+    top: -480px;
 
 } 
 form{
@@ -924,7 +924,7 @@ form{
     font-size: 20px;
     list-style-type: none;
     position: absolute; 
-    top:2670px;
+    top:2560px;
     left: 50px;
 } 
 
@@ -936,7 +936,7 @@ input{
 }
 /* footer; */
 /* grey silk box; */
-.grey{
+.grey2{
     position: relative;
     margin: 40px;
     width: 1000px;
@@ -945,7 +945,7 @@ input{
     height: 350px;
 }
 /* encore footer; */
-.encore{
+.encore1{
     position: relative;
     font-family: sinete, sans-serif;
     color: #D22D00; 
@@ -957,14 +957,14 @@ input{
     left: 40px;
     top: -350px;
 }
-.encore a{
+.encore1 a{
     color: #D22D00;  
     text-decoration: none;
     position: relative;
     margin: 40px;
 }
 /* contact info; */
-.contact{
+.contact1{
     font-size: 35px;
     position: relative;
     font-family: sinete, sans-serif;
@@ -976,7 +976,7 @@ input{
     top: -350px;
 }
 
-.phone{
+.phone1{
     font-size: 20px;
     position: relative;
     font-family: the-seasons, sans-serif;
@@ -990,7 +990,7 @@ input{
     top: -350px;
 }
 
-.email{
+.email1{
     font-size: 20px;
     position: relative;
     font-family: the-seasons, sans-serif;
@@ -1004,7 +1004,7 @@ input{
     top: -350px;
 }
 /* sybscribe link; */
-.subscribe{
+.subscribe1{
     font-size: 30px;
     position: relative;
     font-family: sinete, sans-serif;
@@ -1015,7 +1015,7 @@ input{
     left: 190px;
     top: -550px;  
 }
-.subscribe a{
+.subscribe1 a{
     color: #D22D00;  
     text-decoration: none;
     position: relative;
@@ -1023,7 +1023,7 @@ input{
     
 }
 /* newsletter link; */
-.newsletter{
+.newsletter1{
     font-size: 30px;
     position: relative;
     font-family: sinete, sans-serif;
@@ -1035,7 +1035,7 @@ input{
     top: -550px; 
 }
 
-.newsletter a{
+.newsletter1 a{
     color: #D22D00;  
     text-decoration: none;
     position: relative;
@@ -1115,42 +1115,42 @@ input{
       }
 /* footer; */
 /* grey silk box; */
-.grey{
+.grey2{
     width: 1200px;
     top: -250px;
     left: -290px;
     height: 350px;
 }
 /* encore footer; */
-.encore{
+.encore1{
     font-size: 70px;
     left: 60px;
     top: -850px;
 }
 
 /* contact info; */
-.contact{
+.contact1{
     left: -0px;
     top: -850px;
 }
 
-.phone{
+.phone1{
     left: -0px;
     top: -850px;
 }
 
-.email{
+.email1{
     left: -0px;
     top: -850px;
 }
 /* sybscribe link; */
-.subscribe{
+.subscribe1{
     left: 240px;
     top: -1000px;  
 }
 
 /* newsletter link; */
-.newsletter{
+.newsletter1{
     left: 240px;
     top: -1000px;  
 }
@@ -1232,42 +1232,42 @@ input{
 }
 /* footer; */
 /* grey silk box; */
-.grey{
+.grey2{
     width: 1400px;
     top: -570px;
     left: -290px;
     height: 350px;
 }
 /* encore footer; */
-.encore{
+.encore1{
     font-size: 80px;
     left: 170px;
     top: -1500px;
 }
 
 /* contact info; */
-.contact{
+.contact1{
     left: 30px;
     top: -1500px;
 }
 
-.phone{
+.phone1{
     left: 30px;
     top: -1500px;
 }
 
-.email{
+.email1{
     left: 30px;
     top: -1500px;
 }
 /* sybscribe link; */
-.subscribe{
+.subscribe1{
     left: 400px;
     top: -1700px;  
 }
 
 /* newsletter link; */
-.newsletter{
+.newsletter1{
     left: 400px;
     top: -1700px; 
 }
@@ -1348,43 +1348,43 @@ input{
 }
 /* footer; */
 /* grey silk box; */
-.grey{
+.grey2{
     width: 1900px;
     top: -570px;
     left: -290px;
     height: 350px;
 }
 /* encore footer; */
-.encore{
+.encore1{
     font-size: 150px;
     left: 280px;
     top: -1500px;
 }
 
 /* contact info; */
-.contact{
+.contact1{
     left: 100px;
     top: -1550px;
 }
 
-.phone{
+.phone1{
     left: 100px;
     top: -1550px;
 }
 
-.email{
+.email1{
     left: 100px;
     top: -1550px;
 }
 /* sybscribe link; */
-.subscribe{
+.subscribe1{
     left: 800px;
     top: -1700px;  
 }
 
 /* newsletter link; */
-.newsletter{
-    left: 800px;
+.newsletter1{
+     left: 800px;
     top: -1700px;  
 }
 }
