@@ -528,13 +528,24 @@ label {
 
 /* style for menu */
 .menu{
+
+    display: flex;
     color: #D22D00;
-    font-size: 50px;
+    font-size: 20px;
     font-family: sinete, sans-serif;
     font-size: 35px;
-    left: 300px;
+    left: 600px;
     top: -479px;
+    
 }
+
+.menu li{
+    list-style-type: none;
+    font-size: 20px;
+    margin: 60px;
+    top: 5rem;
+}
+
 .menu a{
     color: #D22D00;
     text-decoration: none;
@@ -549,7 +560,7 @@ label {
 h2{
     font-size: 35px;
     left: 300px;
-    top: -479px;
+    top: -520px;
 }
 
 /* red banner text; */
@@ -676,7 +687,24 @@ h3{
 }
 @media screen and (min-width:1280px){
 
+    .menu{
 
+        display: flex;
+        color: #D22D00;
+        font-size: 20px;
+        font-family: sinete, sans-serif;
+        font-size: 35px;
+        left: 700px;
+        top: -479px;
+        
+    }
+    
+    .menu li{
+        list-style-type: none;
+        font-size: 40px;
+        margin: 80px;
+        top: 5rem;
+    }
 
     .hero {
         height: 400px;
@@ -688,9 +716,9 @@ h3{
         background-color: rgba(0, 0, 0,.4);
     }
     h2{
-        font-size: 40px;
-        left: 500px;
-        top: -479px;
+        font-size: 50px;
+        left: 490px;
+        top: -600px;
     }
     /* red banner text; */
 h3{
