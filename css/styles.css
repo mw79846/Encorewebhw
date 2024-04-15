@@ -1417,8 +1417,906 @@ input{
 }
 }
 
+/* servases page; */
+/* history; */
+.sixteen{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #080200;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 20px;
+    top: -280px;
+}
+.seventeen{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 20px;
+    top: -100px;
+}
+/* history info; */
+.eighteen{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 25px;
+    top: -80px;
+}
+/* history price; */
+.nineteen{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 170px;
+    top: -80px;
+}
+/* warm up; */
+.twenty{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 20px;
+    top: -100px;
+}
+/* warm up info; */
+.twentyone{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 25px;
+    top: -80px;
+}
+/* warm up price; */
+.twentytwo{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 170px;
+    top: -80px; 
+}
+/* sheet music; */
+.twentythree{
+    font-size: 40px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 20px;
+    top: -100px;
+}
+/* sheet music info; */
+.twentyfour{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 15px;
+    top: -80px;
+}
+/* sheet music price; */
+.twentyfive{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 170px;
+    top: -80px; 
+}
+/* premade; */
+.twentysix{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 20px;
+    top: -100px; 
+}
+/* premade info; */
+.twentyseven{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 25px;
+    top: -80px;
+}
+/* premade price; */
+.twentyeight{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 170px;
+    top: -80px;
+}
+/* personal; */
+.twentynine{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 20px;
+    top: -100px;  
+}
+/* personal info; */
+.thirty{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 15px;
+    top: -80px; 
+}
+/* personal price; */
+.thirtyone{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 170px;
+    top: -80px;
+}
 
 
+/* footer; */
+/* grey silk box; */
+.grey3{
+    position: relative;
+    margin: 40px;
+    width: 1000px;
+    top: -50px;
+    left: -290px;
+    height: 350px;
+}
+/* encore footer; */
+.encore2{
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    text-decoration: none;
+    margin: 40px;
+    left: 40px;
+    top: -450px;
+}
+.encore2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+/* contact info; */
+.contact2{
+    font-size: 35px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -450px;
+}
 
+.phone2{
+    font-size: 20px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -450px;
+}
 
+.email2{
+    font-size: 20px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -450px;
+}
+/* sybscribe link; */
+.subscribe2{
+    font-size: 30px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 230px;
+    top: -600px;  
+}
+.subscribe2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    
+}
+/* newsletter link; */
+.newsletter2{
+    font-size: 30px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 230px;
+    top: -600px;     
+}
 
+.newsletter2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+  
+/* media; */
+@media screen and (min-width: 768px){
+    .sixteen{
+        font-size: 50px;
+        position: relative;
+        font-family: sinete, sans-serif;
+        color: #080200;  
+        text-decoration: none;
+        position: relative;
+        margin: 40px;
+        left: 40px;
+        top: -280px;
+    }
+    /* history info; */
+.eighteen{
+    font-size: 25px;
+    margin: 200px;
+    left: -130px;
+    top: -200px;
+}
+/* history price; */
+.nineteen{
+    font-size: 25px;
+    margin: 40px;
+    left: 170px;
+    top: -400px;
+}
+.twenty{
+    font-size: 50px;
+    margin: 40px;
+    left: 20px;
+    top: -400px;
+}
+.twentyone{
+    font-size: 25px;
+    margin: 200px;
+    left: -130px;
+    top: -550px; 
+}
+.twentytwo{
+    margin: 40px;
+    left:180px;
+    top: -700px; 
+}
+.twentythree{
+    font-size: 50px;
+    margin: 40px;
+    left: 10px;
+    top: -700px; 
+}
+.twentyfour{
+    margin: 200px;
+    left:-120px;
+    top: -850px; 
+}
+.twentyfive{
+    margin: 40px;
+    left:180px;
+    top: -1000px; 
+}
+
+.twentysix{
+    font-size: 40px;
+    margin: 40px;
+    left: 10px;
+    top: -1000px; 
+}
+.twentyseven{
+    margin: 200px;
+    left:-120px;
+    top: -1150px; 
+}
+.twentyeight{
+    margin: 40px;
+    left:180px;
+    top: -1300px;  
+}
+.twentynine{
+    font-size: 35px;
+    margin: 40px;
+    left: 5px;
+    top: -1300px; 
+}
+
+.thirty{
+    margin: 200px;
+    left:-120px;
+    top: -1450px; 
+}
+.thirtyone{
+    margin: 40px;
+    left:180px;
+    top: -1600px; 
+}
+/* footer; */
+/* grey silk box; */
+.grey3{
+    position: relative;
+    margin: 40px;
+    width: 1000px;
+    top: -1600px;
+    left: -290px;
+    height: 350px;
+}
+/* encore footer; */
+.encore2{
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    text-decoration: none;
+    margin: 40px;
+    left: 40px;
+    top: -1990px;
+}
+.encore2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+/* contact info; */
+.contact2{
+    font-size: 35px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+
+.phone2{
+    font-size: 20px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+
+.email2{
+    font-size: 20px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+/* sybscribe link; */
+.subscribe2{
+    font-size: 30px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 230px;
+    top: -2190px;  
+}
+.subscribe2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    
+}
+/* newsletter link; */
+.newsletter2{
+    font-size: 30px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 230px;
+    top: -2190px;     
+}
+
+.newsletter2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+
+}
+
+@media screen and (min-width: 1024px){
+       /* what we offer; */
+
+    .sixteen{
+        font-size: 50px;
+        position: relative;
+        font-family: sinete, sans-serif;
+        color: #080200;  
+        text-decoration: none;
+        position: relative;
+        margin: 40px;
+        left: 180px;
+        top: -280px;
+    }
+    /* history; */
+    .seventeen{
+        font-size: 70px;
+        position: relative;
+        font-family: sinete, sans-serif;
+        color: #D22D00;  
+        text-decoration: none;
+        position: relative;
+        margin: 40px;
+        left: 100px;
+        top: -100px;
+    }
+    /* history info; */
+    .eighteen{
+        font-size: 25px;
+        margin: 200px;
+        left: -100px;
+        top: -200px;
+    }
+    /* history price; */
+.nineteen{
+    font-size: 25px;
+    margin: 40px;
+    left: 350px;
+    top: -400px;
+}
+.twenty{
+    font-size: 50px;
+    margin: 40px;
+    left: 160px;
+    top: -400px;
+}
+.twentyone{
+    font-size: 25px;
+    margin: 200px;
+    left: -100px;
+    top: -550px; 
+}
+.twentytwo{
+    margin: 40px;
+    left: 340px;
+    top: -700px; 
+}
+.twentythree{
+    font-size: 50px;
+    margin: 40px;
+    left: 130px;
+    top: -700px;  
+}
+.twentyfour{
+    margin: 200px;
+    left: -100px;
+    top: -850px; 
+}
+.twentyfive{
+    margin: 40px;
+    left: 340px;
+    top: -1000px;  
+}
+.twentysix{
+    font-size: 40px;
+    margin: 40px;
+    left: 130px;
+    top: -1000px;
+}
+.twentyseven{
+    margin: 200px;
+    left:-120px;
+    top: -1150px; 
+}
+.twentyeight{
+    left: 340px; 
+}
+.twentynine{
+    left: 130px;
+}
+.thirty{
+    left:-120px;
+}
+.thirtyone{
+    left: 340px; 
+}
+/* encore footer; */
+.encore2{
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    text-decoration: none;
+    margin: 40px;
+    left: 200px;
+    top: -1990px;
+}
+.encore2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+/* contact info; */
+.contact2{
+    font-size: 49px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+
+.phone2{
+    font-size: 40px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+
+.email2{
+    font-size: 40px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+/* sybscribe link; */
+.subscribe2{
+    font-size: 40px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 500px;
+    top: -2190px;  
+}
+.subscribe2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    
+}
+/* newsletter link; */
+.newsletter2{
+    font-size: 40px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 500px;
+    top: -2190px;     
+}
+
+.newsletter2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+}
+@media screen and (min-width:1280px){
+     /* what we offer; */
+
+     .sixteen{
+        font-size: 80px;
+        position: relative;
+        font-family: sinete, sans-serif;
+        color: #080200;  
+        text-decoration: none;
+        position: relative;
+        margin: 40px;
+        left: 350px;
+        top: -280px;
+    }
+    /* history; */
+    .seventeen{
+        font-size: 90px;
+        position: relative;
+        font-family: sinete, sans-serif;
+        color: #D22D00;  
+        text-decoration: none;
+        position: relative;
+        margin: 40px;
+        left: 290px;
+        top: -100px;
+    }
+    /* history info; */
+    .eighteen{
+        font-size: 25px;
+        margin: 200px;
+        left: 100px;
+        top: -200px;
+    }
+    /* history price; */
+.nineteen{
+    font-size: 25px;
+    margin: 40px;
+    left: 600px;
+    top: -370px;
+}
+.twenty{
+    font-size: 90px;
+    margin: 40px;
+    left: 290px;
+    top: -400px;
+}
+.twentyone{
+    left: 100px;
+}
+.twentytwo{
+    left: 600px;
+}
+.twentythree{
+    font-size: 90px;
+    margin: 40px;
+    left: 290px;
+}
+.twentyfour{
+    left: 100px;
+}
+.twentyfive{
+    left: 600px;
+}
+.twentysix{
+    font-size: 90px;
+    margin: 40px;
+    left: 190px;
+}
+.twentyseven{
+    left: 100px;
+}
+.twentyeight{
+    left: 600px;
+}
+.twentynine{
+    font-size: 90px;
+    margin: 40px;
+    left: 80px;
+}
+.thirty{
+    left: 100px;
+}
+.thirtyone{
+    left: 600px;
+}
+/* encore footer; */
+.encore2{
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00; 
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    text-decoration: none;
+    margin: 40px;
+    left: 370px;
+    top: -1990px;
+}
+.encore2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+/* contact info; */
+.contact2{
+    font-size: 49px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+
+.phone2{
+    font-size: 40px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+
+.email2{
+    font-size: 40px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -10px;
+    top: -1990px;
+}
+/* sybscribe link; */
+.subscribe2{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 800px;
+    top: -2190px;  
+}
+.subscribe2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    
+}
+/* newsletter link; */
+.newsletter2{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: 800px;
+    top: -2190px;     
+}
+
+.newsletter2 a{
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+}
+}
