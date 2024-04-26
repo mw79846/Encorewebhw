@@ -12,6 +12,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
+    overflow-x: hidden
     
 }
 
@@ -40,7 +41,7 @@ label {
     display: flex;
     flex-direction: column;
 }
-
+/* 
 .toggle:checked{
     display: block;
 }
@@ -89,6 +90,7 @@ h2{
     text-decoration: none;
     top:  -680px;
     left: 110px;
+    
 }
 h2 a{
     color: #D22D00;  
@@ -121,6 +123,7 @@ h3{
     width: 900px;
     top: -225px;
     left: -210px;
+    
 }
 /* learn piano and info; */
 .one{
@@ -133,6 +136,7 @@ h3{
     margin: 40px;
     left: 20px;
     top: -450px;
+    
 }
 .two{
     font-size: 25px;
@@ -154,6 +158,7 @@ h3{
     width: 1000px;
     top: -380px;
     left: -290px;
+    
 }
 /* grades and info; */
 .three{
@@ -166,6 +171,7 @@ h3{
     margin: 40px;
     left: 60px;
     top: -800px;
+    
 }
 .four{
     font-size: 25px;
@@ -179,6 +185,7 @@ h3{
     margin: 40px;
     left: 30px;
     top: -800px;
+    
 }
 /* piano three; */
 .piano-three{
@@ -187,6 +194,7 @@ h3{
     width: 1000px;
     top: -570px;
     left: -290px;
+    
 }
 /* sheet music info; */
 
@@ -200,6 +208,7 @@ h3{
     margin: 40px;
     left: 30px;
     top: -1150px;
+    
 }
 .six{
     font-size: 30px;
@@ -213,6 +222,7 @@ h3{
     margin: 40px;
     left: 15px;
     top: -1150px;
+    
 }
 /* piano four; */
 .piano-four{
@@ -221,6 +231,7 @@ h3{
     width: 1000px;
     top: -740px;
     left: -290px;
+    
 }
 /* history and info; */
 .seven{
@@ -246,6 +257,7 @@ h3{
     margin: 40px;
     left: 30px;
     top: -1500px;
+    
 }
 /* footer; */
 /* grey silk box; */
@@ -256,6 +268,7 @@ h3{
     top: -770px;
     left: -200px;
     height: 350px;
+    
 }
 /* encore footer; */
 .encore{
@@ -275,6 +288,7 @@ h3{
     text-decoration: none;
     position: relative;
     margin: 40px;
+    
 }
 /* contact info; */
 .contact{
@@ -287,6 +301,7 @@ h3{
     margin: 40px;
     left: -10px;
     top: -1900px;
+    
 }
 
 .phone{
@@ -301,6 +316,7 @@ h3{
     margin: 40px;
     left: -10px;
     top: -1900px;
+    
 }
 
 .email{
@@ -1392,23 +1408,25 @@ label {
 }
 
 /* style for menu */
-.menu{
+.menu,
+#hamburger-check:checked ~.menu {
+display: flex;
+flex-direction: row;
+color: #D22D00;
+font-size: 20px;
+font-family: sinete, sans-serif;
+font-size: 35px;
+/* left: 600px;
+top: -479px; */
 
-    display: flex;
-    color: #D22D00;
-    font-size: 20px;
-    font-family: sinete, sans-serif;
-    font-size: 35px;
-    left: 600px;
-    top: -479px;
-    
 }
 
-.menu li{
+
+    .menu li{
     list-style-type: none;
     font-size: 20px;
     margin: 60px;
-    top: 5rem;
+    top: 50px;
 }
 
 .menu a{
@@ -1863,16 +1881,18 @@ input{
 }
 @media screen and (min-width:1280px){
 
-    .menu{
-
-        display: flex;
-        color: #D22D00;
-        font-size: 20px;
-        font-family: sinete, sans-serif;
-        font-size: 35px;
-        left: 700px;
-        top: -479px;
-        
+    .menu,
+    #hamburger-check:checked ~.menu {
+    display: flex;
+    flex-direction: row;
+    color: #D22D00;
+    font-size: 20px;
+    font-family: sinete, sans-serif;
+    font-size: 35px;
+    
+    /* left: 600px;
+    top: -479px; */
+    
     }
     
     .menu li{
@@ -1912,6 +1932,7 @@ h3{
     font-size: 50px;
     left: 290px;
     top: -700px;
+ 
 }
 .two{
     font-size: 30px;
