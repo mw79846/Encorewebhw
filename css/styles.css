@@ -919,6 +919,102 @@ input{
     position: relative;
     margin: 40px;
 }
+
+/* waitlist; */
+/* why we have; */
+    
+.waitone{
+    font-size: 35px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #080000;  
+    text-decoration: none;
+    position: relative;
+    top: -220px;
+    left: 50px;
+}
+/* explaining why; */
+.waittwo{
+    font-size: 25px;
+    position: relative;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: #c9c9c8;  
+    text-decoration: none;
+    position: relative;
+    margin: 40px;
+    left: -5px;
+    top: -100px;
+}
+/* contact; */
+.waitthree{
+    font-size: 50px;
+    position: relative;
+    font-family: sinete, sans-serif;
+    color: #D22D00;  
+    text-decoration: none;
+    position: relative;
+    margin: 60px;
+    left: 20px;
+    top: -50px;
+}
+
+.rec{
+    top: 500px;
+}
+
+h4,
+label,
+button {
+    color: whitesmoke;
+    font-family: sinete, sans-serif;
+}
+
+h4 {
+    font-size: 3rem;
+    letter-spacing: .25rem;
+    padding-bottom: 3%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 1.5rem;
+}
+
+input,
+textarea {
+    padding: 3%;
+    margin-bottom: 2%;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color:#8f8989;
+}
+
+.error {
+    font-size: .75rem;
+    color:#df1a9d;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1% 0;
+}
+
+button {
+    background-color: black;
+    padding: 3%;
+    border: 1px solid #df1a9d;
+    font-size: 2rem;
+    transition: .3s ease-in-out;
+}
+
+button:hover {
+    background-color:#df1a9d;
+}
 /* media; */
 @media screen and (min-width: 768px) {
     header {
@@ -1395,8 +1491,32 @@ h3{
     position: relative;
     margin: 40px;
 }
+/*  waitlist; */
+    /*  why; */
+    .waitone{
+        top: -220px;
+        left: 50px;
+    }
+     /* explaining why; */
+    .waittwo{
+        font-size: 40px;
+        margin: 180px;
+        left: -120px;
+        top: -250px;
+    }
+     /* contact us; */
+    .waitthree{
+        font-size: 60px;
+        color: #D22D00;  
+        margin: 170px;
+        left: -90px;
+        top: -200px;
+    }
+    /*pulls*/
 
 }
+
+
 @media screen and (min-width: 1024px){
     header {
         min-height: 85px;
@@ -1433,6 +1553,10 @@ top: -479px; */
     color: #D22D00;
     text-decoration: none;
 
+}
+
+.menu a:hover{
+    color: white;
 }
 .hero {
     height: 400px;
@@ -1876,6 +2000,36 @@ input{
  position: relative;
  margin: 40px;
 }
+
+
+    /*  why; */
+    .seventeen{
+        top: -230px;
+        left: 50px;
+    }
+     /* explaining why; */
+    .eighteen{
+        font-size: 20px;
+        margin: 180px;
+        left: -120px;
+        top: -250px;
+    }
+     /* contact us; */
+    .nineteen{
+        font-size: 50px;
+        color: #D22D00;  
+        margin: 150px;
+        left: -90px;
+        top: -50px;
+    }
+    /*pulls*/
+    .rectangle1 {
+        height: 500px;
+        width: 600px;
+        background-color: #f5f1f1;
+        left:90px;
+        top: 1000px;
+      }
 
 
 }
@@ -2337,7 +2491,6 @@ h3{
    }
    
 }
-
 
 
 
