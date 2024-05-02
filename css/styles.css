@@ -32,6 +32,7 @@ label {
 #hamburger-check {
     display: none;
 }
+
 /* Hide the menu */
 .menu {
     display: none;
@@ -68,7 +69,17 @@ label {
     width: 100%;
     background-repeat: no-repeat;
 }
-
+.fade-in-text {
+    font-family: Arial;
+    font-size: 150px;
+    animation: fadeIn 5s;
+    transition: fadeIn 5s ease-in; 
+  }
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
 h1 {
     /* outline: 1px solid red; */
     font-family: sinete, sans-serif;
@@ -1778,7 +1789,6 @@ h3{
 label {
     display: none;
 }
-
 /* style for menu */
 .menu,
 #hamburger-check:checked ~.menu {
@@ -1788,11 +1798,11 @@ color: #D22D00;
 font-size: 20px;
 font-family: sinete, sans-serif;
 font-size: 35px;
+
 /* left: 600px;
 top: -479px; */
 
 }
-
 
     .menu li{
     list-style-type: none;
@@ -1816,6 +1826,7 @@ top: -479px; */
     width: 80%;
     
 }
+
 h2{
     font-size: 35px;
     left: 300px;
@@ -2485,7 +2496,9 @@ margin: 40px;
         margin: 80px;
         top: 5rem;
     }
-
+    .menu a:hover{
+        color: white;
+    }
     .hero {
         height: 400px;
         width: 100%;
