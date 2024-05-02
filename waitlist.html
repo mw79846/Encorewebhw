@@ -8,7 +8,12 @@
     <link rel="stylesheet" href="https://use.typekit.net/zmt4wwb.css">
     <link rel="stylesheet" href="https://use.typekit.net/zmt4wwb.css">
     <title>Encore Try Again</title>
+    <script>
+        function myFunction() { alert("The HTML page has loaded.");
+            }
+        </script>
 </head> 
+<body onload="myFunction();">
 <header>
     <nav class="topnav">
         <label for="hamburger-check">&#9776;</label>
@@ -36,10 +41,18 @@
     <!--info box-->
     <main>
       <h4>Contact us</h4>
-      <form id="my-form">
+
+      <style> 
+        input{ 
+            background: linear-gradient(to top, #fafafb, #070000); 
+        } 
+    </style> 
+
+      <form class="form2" id="my-form">
           <label for="first-name">First Name</label>
           <small class="error fname-error"></small>
-          <input type="text" name="first-name" id="first-name" required />
+          <input type="text" name="first-name" id="first-name" required/>
+          
           
 
           <label for="last-name">Last Name</label>
@@ -60,5 +73,20 @@
   </main>
 
   <!-- <script src="validate.js"></script> -->
+  <!--footer-->
+<nav class="grey4">
+    <img class="grey4" src="images/grey2.png" alt="grey footer">
+   </nav>
+   <footer>
+    <div class="container">
+      <div class="encore3"><a href="index.html">Encore</a></div>
+      <div class="contact3">Contact Us!</div>
+      <div class="phone3">Phone:804-555-5555</div>
+      <div class="email3">Email:Encores@ gmail,com</div>
+      <div class="subscribe3"><a href="sub.html">Subscribe!</a></div>
+      <div class="newsletter3"><a href="news.html">NewsLetter</a></div>
+    </div>
+  </footer>
 </body>
-  </html>  
+  </html> 
+ 
