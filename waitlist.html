@@ -16,13 +16,13 @@
 <body onload="myFunction();">
 <header>
     <nav class="topnav">
-        <label for="hamburger-check">&#9776;</label>
+        <label for="hamburger-check" class="hamburger-check">&#9776;</label>
         <input type="checkbox" id="hamburger-check" name="hamburger-check">
         <ul class="menu">
           <li><a href="about.html">About</a></li>
           <li><a href="services">Services</a></li>
           <li><a href="waitlist.html">Waitlist</a></li>
-          <li><a href="gal.html">Gallery</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
         </ul>
     </nav>
 </header>
@@ -31,7 +31,6 @@
         <h1>Waitlist</h1>
     </div>
     <h2><a href="index.html">Encore</a></h2>
-    <article>
     <nav class="red">
          <img class="red" src="images/red.png" alt="banner">
     </nav>
@@ -39,38 +38,31 @@
         <p class="waittwo">We have a waitlist so we can make sure we get everyone their videos. Please sign up cor the video purchase you want below with your name, email, and song choice.</p>
         <p class="waitthree">Sign Up Here And Contact Us!</p>
     <!--info box-->
-    <main>
       <h4>Contact us</h4>
-
-      <style> 
-        input{ 
-            background: linear-gradient(to top, #fafafb, #070000); 
-        } 
-    </style> 
-
+   
       <form class="form2" id="my-form">
-          <label for="first-name">First Name</label>
+          <label class="labelname" for="first-name">First Name</label>
           <small class="error fname-error"></small>
-          <input type="text" name="first-name" id="first-name" required/>
+          <input class="inputcolor" type="text" name="first-name" id="first-name" required/>
           
           
 
-          <label for="last-name">Last Name</label>
-          <input type="text" name="last-name" id="last-name" />
+          <label class="labelname" for="last-name">Last Name</label>
+          <small class="error lname-error"></small>
+          <input class="inputcolor" type="text" name="last-name" id="last-name" required/>
 
-          <label for="email">Email Address</label>
+          <label class="labelname" for="email">Email Address</label>
           <small class="error email-error"></small>
-          <input type="email" name="email" id="email" required />
+          <input class="inputcolor" type="email" name="email" id="email" required />
           
 
-          <label for="message">Message</label>
+          <label class="labelname" for="message">Message</label>
           <small class="error message-error"></small>
-          <textarea id="message" name="message" cols="80" rows="20" placeholder="How can we help?" required></textarea>
+          <textarea class="inputcolor" id="message" name="message" cols="80" rows="20" placeholder="How can we help?" required></textarea>
 
           <button type="submit">Submit</button>
       </form>
-
-  </main>
+    </main>
 
   <!-- <script src="validate.js"></script> -->
   <!--footer-->
@@ -83,8 +75,8 @@
       <div class="contact3">Contact Us!</div>
       <div class="phone3">Phone:804-555-5555</div>
       <div class="email3">Email:Encores@ gmail,com</div>
-      <div class="subscribe3"><a href="sub.html">Subscribe!</a></div>
-      <div class="newsletter3"><a href="news.html">NewsLetter</a></div>
+      <div class="subscribe3"><a href="waitlist.html">Subscribe!</a></div>
+      <div class="newsletter3"><a href="waitlist.html">NewsLetter</a></div>
     </div>
   </footer>
 </body>
